@@ -1,0 +1,26 @@
+
+.navbar{
+    background-color: #7934e74f;
+    
+}
+
+.quem-somos{
+    background-color: rgba(224, 191, 247, 0.459);
+    color:rgb(121, 118, 118);
+}
+
+.margin{
+    padding: 10px;
+}
+
+.parceiros{
+    background-color: #7934e74f;
+    color:rgb(121, 118, 118);
+}
+
+.personalizaFooter{
+    padding: 30px;
+    background-color: black;
+    color:white;
+}
+
